@@ -1,7 +1,9 @@
+import Prince from './prince.jsx';
+
 function App() {
 
   return (
-    <h1>Prince Sharma</h1>
+    <Prince/>
   )
 }
 
