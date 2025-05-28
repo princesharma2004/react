@@ -1,9 +1,12 @@
 import Prince from './prince.jsx';
 
 function App() {
+  const name = 'Prince Sharma';
 
   return (
-    <Prince/>
+    <>
+      <h1>Hello, {name} !</h1>
+    </>
   )
 }
 
